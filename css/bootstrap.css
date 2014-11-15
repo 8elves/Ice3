@@ -3649,7 +3649,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   min-height: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 4px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
@@ -3745,10 +3745,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 20px;
+  height: 10px;
   padding: 15px 15px;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 10px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
